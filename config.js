@@ -3,8 +3,8 @@
 module.exports = {
   TOKEN: "MTUwNTI0MTg2MTM2NTgyNTY3Ng.GtAUqG.G40DR4zOh6e37sCOZ815zKBTRtifESHinWtUI0",
   language: "en",
-  ownerID: ["1034461221774180393", "770759154104664064"], 
-  mongodbUri : "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
+  ownerID: ["1505241861365825676"], 
+  mongodbUri : "mongodb+srv://ilyasde:<db_password>@discordbot.eeletqq.mongodb.net/?appName=Discordbot",
   spotifyClientId : "d92baed9605a45a39ed7c2a2d960b1c1",
   spotifyClientSecret : "e9b29f6739de4315bc03b6d8a8e93b03",
   setupFilePath: './commands/setup.json',
@@ -28,7 +28,7 @@ module.exports = {
       name: "GlaceYT",
       password: "glace",
       host: "de-01.strixnodes.com",
-      port: 3000,
+      port: 8003,
       secure: false
     }
   ]
