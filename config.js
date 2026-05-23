@@ -3,7 +3,7 @@
 module.exports = {
   TOKEN: "MTUwNTI0MTg2MTM2NTgyNTY3Ng.GyahrF.sIEg6Cw6UptQuYKnrNGTqyJn-RkXU_yy3PCdWg",
   language: "en",
-  ownerID: ["1505241861365825676"], 
+  ownerID: ["1034461221774180393"], 
   mongodbUri : "mongodb+srv://ilyasde:<db_password>@discordbot.eeletqq.mongodb.net/?appName=Discordbot",
   spotifyClientId : "3e74048b2af649caa828f46d2d52877e",
   spotifyClientSecret : "95d76b7885bb469388db3a67641b4994",
