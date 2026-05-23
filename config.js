@@ -25,11 +25,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
       {
-      name: "ilyasde",
-      password: "ilyasde",
-      host: "8080",
-      port: 8080,
-      secure: false
-    }
+  name: "Dream HQ",
+  password: "xecute.gg",
+  host: "sftp://node.premium.vortexa.cloud",
+  port: 25852,
+  secure: false
+}
   ]
 }
